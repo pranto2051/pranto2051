@@ -103,26 +103,26 @@ const pranto = {
 <div align="center">
 
 <a href="https://my-shop-3-hf87.vercel.app/" target="_blank">
-  <img src="https://api.microlink.io/?url=https://my-shop-3-hf87.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="45%" />
+  <img src="https://img.shields.io/badge/My%20Shop%203-Visit%20Live-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://my-shop-2-kohl.vercel.app/" target="_blank">
-  <img src="https://api.microlink.io/?url=https://my-shop-2-kohl.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="45%" />
+  <img src="https://img.shields.io/badge/My%20Shop%202-Visit%20Live-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/>
-
 <a href="https://school-jet-nine.vercel.app/" target="_blank">
-  <img src="https://api.microlink.io/?url=https://school-jet-nine.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="45%" />
+  <img src="https://img.shields.io/badge/School%20Website-Visit%20Live-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://our-website-for-company.vercel.app/" target="_blank">
-  <img src="https://api.microlink.io/?url=https://our-website-for-company.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="45%" />
+  <img src="https://img.shields.io/badge/Company%20Website-Visit%20Live-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<a href="https://abit-solutions-hub.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/AB%20IT%20Solutions-Visit%20Live-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
-
 
 ---
 
