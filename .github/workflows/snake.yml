@@ -19,9 +19,21 @@ jobs:
         with:
           github_user_name: pranto2051
           outputs_dir: ./
-          outputs: github-contribution-grid-snake-dark.svg
+          outputs: |
+            github-contribution-grid-snake-dark.svg
 
-      - name: Push changes
+      - name: Verify file was created
+        run: |
+          if [ -f github-contribution-grid-snake-dark.svg ]; then
+            echo "✅ Snake SVG generated successfully"
+            ls -lh github-contribution-grid-snake-dark.svg
+          else
+            echo "❌ Snake SVG not found"
+            ls -la
+            exit 1
+          fi
+
+      - name: Commit and push changes
         uses: actions/add-and-commit@v9
         with:
           default_author: github_actions
