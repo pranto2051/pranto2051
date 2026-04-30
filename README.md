@@ -134,6 +134,12 @@ const pranto = {
 
 ---
 
+### 🐍 My Contributions Snake
+
+![snake gif](https://github.com/pranto2051/pranto2051/blob/output/github-snake.svg)
+
+<br/>
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -158,11 +164,6 @@ const pranto = {
 
 <br/><br/>
 
-### 🐍 My Contributions Snake
-
-<img src="https://raw.githubusercontent.com/pranto2051/pranto2051/output/dist/github-snake-dark.svg" alt="Snake animation"/>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
