@@ -160,7 +160,7 @@ const pranto = {
 
 ### 🐍 My Contributions Snake
 
-<img src="https://raw.githubusercontent.com/pranto2051/pranto2051/main/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/pranto2051/pranto2051/output/dist/github-snake-dark.svg" alt="Snake animation"/>
 
 <br/>
 
