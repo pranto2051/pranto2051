@@ -13,6 +13,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -37,6 +40,19 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 2.5: Verify the dist directory was created
+      - name: Verify Generated Files
+        run: |
+          echo "📁 Checking dist directory..."
+          if [ -d "dist" ]; then
+            echo "✅ dist directory exists"
+            ls -lh dist/
+          else
+            echo "❌ dist directory not found!"
+            ls -la
+            exit 1
+          fi
 
       # Step 3: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
