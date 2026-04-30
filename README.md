@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Pranto%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20C%2B%2B%20Enthusiast%20%7C%20Open%20Source%20Lover&descAlignY=55&descSize=16"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer+%F0%9F%9A%80;C%2B%2B+%26+JavaScript+Enthusiast+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F;644%2B+GitHub+Contributions+%F0%9F%94%A5;Always+Building+Something+New+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer+%F0%9F%9A%80;C%2B%2B+%26+JavaScript+Enthusiast+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F;806%2B+GitHub+Contributions+%F0%9F%94%A5;Always+Building+Something+New+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 <br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=pranto2050&label=Profile%20Views&color=blueviolet&style=flat-square)[!GitHub followers](https://github.com/pranto2050)
 [!GitHub stars](https://github.com/pranto2050)
@@ -48,8 +48,19 @@ const pranto = {
 </div>
 ***📌 Featured Projects
 <div align="center">
-[!Bus Management](https://github.com/pranto2050/Bus-Management-System)
-[!School Website](https://github.com/pranto2050/school)
+<a href="https://my-shop-3-hf87.vercel.app/" target="_blank">
+  <img src="https://api.microlink.io/?url=https://my-shop-3-hf87.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="45%" />
+</a>
+<a href="https://my-shop-2-kohl.vercel.app/" target="_blank">
+  <img src="https://api.microlink.io/?url=https://my-shop-2-kohl.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="45%" />
+</a>
+<br/>
+<a href="https://school-jet-nine.vercel.app/" target="_blank">
+  <img src="https://api.microlink.io/?url=https://school-jet-nine.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="45%" />
+</a>
+<a href="https://our-website-for-company.vercel.app/" target="_blank">
+  <img src="https://api.microlink.io/?url=https://our-website-for-company.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="45%" />
+</a>
 </div>
 ***📈 Contribution Graph
 <div align="center">
