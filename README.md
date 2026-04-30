@@ -6,9 +6,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranto2050\&label=Profile%20Views\&color=blueviolet\&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/pranto2050?label=Followers\&style=flat-square\&color=blue)](https://github.com/pranto2050)
-[![GitHub stars](https://img.shields.io/github/stars/pranto2050?label=Stars\&style=flat-square\&color=yellow)](https://github.com/pranto2050)
+![Profile Views](https://komarev.com/ghpvc/?username=pranto2051\&label=Profile%20Views\&color=blueviolet\&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/pranto2051?label=Followers\&style=flat-square\&color=blue)](https://github.com/pranto2051)
+[![GitHub stars](https://img.shields.io/github/stars/pranto2051?label=Stars\&style=flat-square\&color=yellow)](https://github.com/pranto2051)
 
 </div>
 
@@ -36,7 +36,7 @@ const pranto = {
 };
 ```
 
-* 🔭 Currently working on: **[Bus-Management-System](https://github.com/pranto2050/Bus-Management-System)**
+* 🔭 Currently working on: **[Bus-Management-System](https://github.com/pranto2051/Bus-Management-System)**
 * 🌱 Currently studying: **Frontend Development & C++**
 * 👯 Looking to collaborate on: **Open Source Projects**
 * 🌐 Website: **[prantoislam.me](https://prantoislam.me)**
@@ -80,12 +80,12 @@ const pranto = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranto2050&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranto2050&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranto2051&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranto2051&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranto2050&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranto2051&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -93,7 +93,7 @@ const pranto = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranto2050&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pranto2051&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 </div>
 
 ---
@@ -129,7 +129,7 @@ const pranto = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranto2050&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranto2051&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
 
 ---
